@@ -1,7 +1,6 @@
 // Path-Finding solution by Breese Sherman
 // August 7, 2020
 
-#include <iostream>
 #include <vector>
 
 int FindPath(const int nStartX, const int nStartY,
